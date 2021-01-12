@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LionelBergen/DetectWebBot/issues"
   },
-  "homepage": "https://github.com/LionelBergen/DetectWebBot#readme"
+  "homepage": "https://github.com/LionelBergen/DetectWebBot#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
