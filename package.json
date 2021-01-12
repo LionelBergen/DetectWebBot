@@ -1,0 +1,19 @@
+{
+  "name": "detectwebbot",
+  "version": "1.0.0",
+  "description": "Simple Server with single webpage displaying if the user is a bot or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LionelBergen/DetectWebBot.git"
+  },
+  "author": "Lionel Bergen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LionelBergen/DetectWebBot/issues"
+  },
+  "homepage": "https://github.com/LionelBergen/DetectWebBot#readme"
+}
